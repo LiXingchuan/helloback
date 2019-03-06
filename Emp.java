@@ -15,4 +15,6 @@ public class Emp implements Serializable{
 	System.out.println("我是一个补丁");
 	System.out.println("我是一个补丁");
 	System.out.println("我是一个补丁");
+	
+	使用Fromat-patch生成补丁的方式
 }
